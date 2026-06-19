@@ -107,7 +107,7 @@ UAS_WEB2/
 
 ### Halaman Histori Stok
 
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/0e959f68-fdd8-4b8f-85f4-31815cd7bb80" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1c6c4346-7334-4166-811e-ee06b84b65a8" />
 
 ---
 
@@ -185,7 +185,6 @@ database.default.DBDriver = MySQLi
 | | Link |
 |---|---|
 | 🎥 Video Presentasi | [Tonton di YouTube](#) |
-| 💻 Demo Aplikasi | `http://localhost/UAS_WEB2/frontend-spa/` |
 
 ---
 
